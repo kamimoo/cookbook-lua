@@ -14,7 +14,7 @@ Debian or Ubuntu though may work, but other platforms are untested.
 ATTRIBUTES
 ====
 
-There are no attributes under the `paco` namespace.
+There are no attributes under the `lua` namespace.
 
 USAGE
 ====
